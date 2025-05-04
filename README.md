@@ -1,6 +1,6 @@
 # SweetFlow - Candy Order Management App
 
-> **Java 21 is required**
+> **Java 23 is required**
 
 **SweetFlow** is a Java-based desktop application designed to streamline and simplify the order process for customer service (CS) teams in candy distribution companies. The app helps manage client orders.
 
