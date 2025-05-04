@@ -27,8 +27,6 @@ This project was developed by me and my classmates as part of our coursework. We
 
    - Nada Mahomoud Hammad
 
-   - Mohammed Emad
-
 ## 👨‍💼 Use Case
 
 The app is tailored for customer service reps in candy distribution companies to:
